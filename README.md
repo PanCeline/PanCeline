@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ## 😄圖示
 [博客來](https://www.books.com.tw/?gad_source=1&gbraid=0AAAAAD4DKPwAIkCfxl42ab5Dr8sy6k4Y2&gclid=EAIaIQobChMI9ueG3-eDjQMViNQWBR2qYBqpEAAYASAAEgKTkfD_BwE)
 
-![爬取網站]("博客來.png")
+![爬取網站]("https://github.com/PanCeline/PanCeline/blob/main/%E5%8D%9A%E5%AE%A2%E4%BE%86.png")
 
 
 ## 📫作者與聯絡方式 
