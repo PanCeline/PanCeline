@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 [博客來](https://www.books.com.tw/?gad_source=1&gbraid=0AAAAAD4DKPwAIkCfxl42ab5Dr8sy6k4Y2&gclid=EAIaIQobChMI9ueG3-eDjQMViNQWBR2qYBqpEAAYASAAEgKTkfD_BwE)
 
 
-## 📫作者與聯絡方式 (email即可)
+## 📫作者與聯絡方式 
 s1120112@pu.edu.tw
 
